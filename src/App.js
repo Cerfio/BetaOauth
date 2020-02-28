@@ -8,8 +8,8 @@ export default class App extends React.Component {
 
     this.state = {
       api_endpoint: "https://www.betaseries.com",
-      client_id: "ec43e5420d71",
-      client_secret: "215f417b932515c4be81cbc0679632df",
+      client_id: "",
+      client_secret: "",
       code: "",
       token: ""
     }
